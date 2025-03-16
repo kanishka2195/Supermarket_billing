@@ -1,1 +1,2 @@
 # Supermarket_billing
+This project is a C++ supermarket billing system that enables buyers to create receipts and administrators to control product inventory. It offers features including creating client receipts with discounts and adding, modifying, and removing products. Product details are stored by the system using file handling, which guarantees data permanence. This project is perfect for learning C++ file management and object-oriented programming (OOP) ideas.
